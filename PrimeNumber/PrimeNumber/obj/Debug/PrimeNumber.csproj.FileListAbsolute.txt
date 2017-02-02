@@ -1,0 +1,6 @@
+D:\Backup\Development\2016Projects\DiplomaCsharp\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\Backup\Development\2016Projects\DiplomaCsharp\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\Backup\Development\2016Projects\DiplomaCsharp\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\Backup\Development\2016Projects\DiplomaCsharp\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+D:\Backup\Development\2016Projects\DiplomaCsharp\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\Backup\Development\2016Projects\DiplomaCsharp\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
